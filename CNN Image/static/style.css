@@ -1,0 +1,41 @@
+body{
+    background-color: #FAF8F1;
+}
+
+h1{
+    color:#34656D;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    top:20px;
+}
+p{
+    color: #34656D;
+    font-size: 30px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top:20px;
+}
+form{
+    color: #34656D;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    top:30px;
+    left: 30px;
+}
+button{
+    background-color: #334443;
+    color: #FAF8F1;
+    position: relative;
+    top:30px;
+    right:30px;
+}
+h2{
+     color:#34656D;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    top:20px;
+}
